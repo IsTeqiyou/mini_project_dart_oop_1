@@ -16,3 +16,8 @@ abstract class Employee {
     print("Posisi: $runtimeType");
   }
 }
+
+
+5FOLDER INI JADI 2 FOLDER
+1NYA FOLDER MAIN.DART
+1NYA LAGI DIRANGKUM 5 FOLDER TERSEBUT
