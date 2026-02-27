@@ -17,7 +17,7 @@ abstract class Employee {
   }
 }
 
+class Manager extends Employee {
+  Manager(String name) : super(name);
+}
 
-5FOLDER INI JADI 2 FOLDER
-1NYA FOLDER MAIN.DART
-1NYA LAGI DIRANGKUM 5 FOLDER TERSEBUT
